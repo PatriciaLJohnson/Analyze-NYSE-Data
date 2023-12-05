@@ -1,0 +1,3 @@
+# Analyze-NYSE-Data
+In this project, I analyzed real life data from the New York Stock Exchange. I drew a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. I created a smaller subset of the data.
+I used Exel Spreadsheets to calculate summary statistics, inference from the statistics, calculate business metrics and used models to forecast future growth prospects for the companies. I also created pivot charts to summarize and sort data stored in tables,and created P & L Dashboards & Income Statements to analyz trends in financial metrics.
